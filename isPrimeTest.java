@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class isPrimeTest {
 
 	@Test
-	void test() {
+	void test123() {
 
 		assertEquals(true,  JUnitTesting.isPrime(2));
 	}
